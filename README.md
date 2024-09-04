@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahariimane&label=Profile%20views&color=0e75b6&style=flat" alt="nahariimane" /> </p>
 
-- 🔭 I’m currently **studying at National School Of Applied Sciences Oujda**
+- 🔭 I’m currently **studying at Sorbonne University Paris**
 
 - 📫 How to reach me **nahariimane@gmail.com**
 
