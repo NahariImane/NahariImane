@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Imane NAHARI</h1>
-<h3 align="center">I'm a software engineering student </h3>
+<h3 align="center">I'm a software engineer </h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahariimane&label=Profile%20views&color=0e75b6&style=flat" alt="nahariimane" /> </p>
 
-- 🔭 I’m currently **studying at Sorbonne University Paris**
+- 🔭 I’m currently **working at CGI Paris Financial Services**
 
 - 📫 How to reach me **nahariimane@gmail.com**
 
